@@ -1,6 +1,8 @@
 import React from 'react';
 import Activities from '../components/Activities';
 
+
+
 const index=()=>{
     return(
         <>
